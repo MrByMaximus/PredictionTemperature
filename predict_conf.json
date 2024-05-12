@@ -1,12 +1,12 @@
 {
     "Server": {
         "DIALECT": "oracle",
-        "HOST": "gendb.sib.rual.ru",
+        "HOST": "%%%%%%%%",
         "PORT": 1521,
         "SERVICE": "dwfoundry",
         "SQL_DRIVER": "cx_oracle",
         "USERNAME": "TD_AD_USER",
-        "PASSWORD": "TWev4tRCbA",
+        "PASSWORD": "%%%%%%%",
         "predictiontype": 1,
         "day_of_predict": 60,
         "param_max": 1.25,
